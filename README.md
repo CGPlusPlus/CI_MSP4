@@ -1,11 +1,17 @@
 # Ride Share
 
 ## What is Ride Share
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch.
+Ride Share is what the name suggets, it is a ride sharing website where Users can signup to share car journeys on a scheduled basis. These journeys can be anything from a week day school or work commute, to a monthly journey home from college.
 
 ## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. 
+The Ride Share website will include features which include, but at this time are not limited to: 
+Accounts   
+Creating Journies  
+Bidding on Journies  
+Accepting & Declining bids  
+Deleting / Updating Journies  
+Messaging - directly with Journey Owner - seperate to bidding process  
+Possible Maps API for visualisation of individual Journey  
 ### Existing Features
 
 - __Navigation Bar__
