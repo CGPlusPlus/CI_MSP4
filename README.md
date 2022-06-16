@@ -4,7 +4,7 @@
 Ride Share is what the name suggets, it is a ride sharing website where Users can signup to share car journeys on a scheduled basis. These journeys can be anything from a week day school or work commute, to a monthly journey home from college.
 
 ## Features 
-The Ride Share website will include features which include, but at this time are not limited to: 
+The Ride Share website will include features which include, but at this time are not limited to:  
 Accounts   
 Creating Journies  
 Bidding on Journies  
